@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.firstItem {
+    background: red;
+    transition: 2s;
+}
+
+.lastItem {
+    background: green;
+    transition: 2s;
+}
+
+.root {
+    list-style-type: none;
+}
